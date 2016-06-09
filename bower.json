@@ -1,0 +1,18 @@
+{
+  "name": "jwplayer7-mirror",
+  "version": "7.4.3",
+  "homepage": "https://www.jwplayer.com",
+  "description": "The Most Popular Video Player & Platform on the Web",
+  "main": "jwplayer.js",
+  "keywords": [
+    "jwplayer"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
