@@ -1,6 +1,6 @@
 {
   "name": "jwplayer7-mirror-updated",
-  "version": "7.7.0",
+  "version": "7.9.0-beta",
   "description": "The Most Popular Video Player & Platform on the Web",
   "main": "jwplayer.js",
   "scripts": {
